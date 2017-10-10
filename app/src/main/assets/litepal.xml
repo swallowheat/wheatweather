@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="wheat_weather"/>
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.example.swallow.wheatweather.db.Province"/>
+        <mapping class="com.example.swallow.wheatweather.db.City"/>
+        <mapping class="com.example.swallow.wheatweather.db.County"/>
+    </list>
+</litepal>
